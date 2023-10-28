@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @firatgunay
 - 👀 I’m interested in mobile programming, web programming, kali linux and network systems.
-- 🌱 I’m currently learning python, C, and kotlin..
+- 🌱 I’m currently learning python, java, and kotlin..
 - 💞️ I’m looking to collaborate on system engineering
 - 📫 How to reach me ... frtgny1@outlook.com
 
