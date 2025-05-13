@@ -26,7 +26,7 @@ I'm **Fırat Günay**
 ### 📫 Contact
 
 - Email: [fratfratgnay@gmail.com](mailto:fratfratgnay@gmail.com)  
-- LinkedIn: [linkedin.com/in/firatgunay](https://linkedin.com/in/firatgunay) *(eğer yoksa daha sonra oluşturmanı öneririm)*  
+- LinkedIn: [linkedin.com/in/firatgunay](https://linkedin.com/in/firatgunay)  
 - Location: Erzurum, Turkey
 
 ---
