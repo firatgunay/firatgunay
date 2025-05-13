@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**firatgunay/firatgunay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Fırat Günay**  
+🎓 Senior Computer Engineering student at Erzurum Technical University  
+🌐 Enthusiastic about **network technologies**, **cybersecurity**, and **software development**  
+💡 Always open to learning and contributing to open-source
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+
+- 💻 Languages: Java, Python, C, Kotlin, SQL  
+- 🔧 Tools: Git & GitHub, Linux, Firebase, VSCode  
+- 🌐 Other Interests: Network protocols, API integration, CLI tools
+
+---
+
+### 📊 GitHub Stats
+
+![Fırat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=firatgunay&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=firatgunay&layout=compact&theme=radical)
+
+---
+
+### 📫 Contact
+
+- Email: [fratfratgnay@gmail.com](mailto:fratfratgnay@gmail.com)  
+- LinkedIn: [linkedin.com/in/firatgunay](https://linkedin.com/in/firatgunay) *(eğer yoksa daha sonra oluşturmanı öneririm)*  
+- Location: Erzurum, Turkey
+
+---
+
+> “The best way to predict the future is to invent it.” – Alan Kay
