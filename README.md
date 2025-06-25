@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm **Fırat Günay**  
-🎓 Senior Computer Engineering student at Erzurum Technical University  
+🎓 Computer Engineering student at Erzurum Technical University  
 🌐 Enthusiastic about **network technologies**, **cybersecurity**, and **software development**  
 💡 Always open to learning and contributing to open-source
 
